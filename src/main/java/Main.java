@@ -30,7 +30,7 @@ String aniversario = "01/01/2000";
 
 
 // Método de saída
-// System.out.println("Cliente Servido? " + clienteServido);
+System.out.println("Cliente Servido? " + clienteServido);
     
   }
 }
